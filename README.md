@@ -7,4 +7,6 @@ KEY HIGHLIGHTS
 3. Provided strategic suggestions for improving performance based on data insights.
 
 LINK TO PROJECT :
-https://www.canva.com/design/DAF7ztSpTYw/7ahEaw24XR4eDF79PDTvgg/edit?utm_content=DAF7ztSpTYw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+PPT
+https://drive.google.com/drive/folders/1cpq8Fz8Rp1vr0WeAhjUtEdthRdhakdEO?usp=drive_link
+MS EXCEL
