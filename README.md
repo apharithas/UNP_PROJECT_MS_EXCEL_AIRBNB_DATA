@@ -7,11 +7,4 @@ KEY HIGHLIGHTS
 3. Provided strategic suggestions for improving performance based on data insights.
 
 LINK TO PROJECT :
-
-PPT
-
-https://drive.google.com/drive/folders/1cpq8Fz8Rp1vr0WeAhjUtEdthRdhakdEO?usp=drive_link
-
-MS EXCEL
-
-
+https://docs.google.com/spreadsheets/d/1uLTlHasMGP7m6NrjcjsDJMiGEiosBnYm/edit?usp=drive_link&ouid=103971887950499303706&rtpof=true&sd=true
